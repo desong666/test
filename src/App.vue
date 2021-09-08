@@ -10,7 +10,11 @@
 <script>
 var x= 3;
 export default {
-  
+  data(){
+    return{
+      
+    }
+  }
 }
 </script>
 <style>
