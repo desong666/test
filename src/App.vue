@@ -13,6 +13,7 @@ export default {
   data(){
     return{
       'aa':01,
+      'bb': 02,
     }
   }
 }
